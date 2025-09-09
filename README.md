@@ -5,7 +5,7 @@ My name is Larry Ling, and I am a junior studying Computer Science at Northweste
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-ling-student/)
 
 > [!IMPORTANT]  
-> If you are a recruiter, you can find my resume [here]()
+> If you are a recruiter, you can find my resume [here](https://github.com/LarryLing/LarryLing/blob/main/Larry%20Ling%20-%20Resume.pdf)
 
 ## 🖥️ Tech Stack
 
