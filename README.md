@@ -1,7 +1,5 @@
 # 👋 Hi, there! 
 
-## 👨🏻‍💻 About Me
-
 My name is Larry Ling, and I am a junior studying Computer Science at Northwestern University. I have a strong foundation in Javascript/Typescript and Python programming through my coursework and projects. I am a quick learner with a strong work ethic and a passion for full stack development, and I am very excited to apply and expand my skills and knowledge at every opportunity!
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-ling-student/)
@@ -24,7 +22,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-lin
 ### 📚 Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react)
+![Zustand](https://img.shields.io/badge/Zustand-5190cf?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Tanstack Table](https://img.shields.io/badge/tanstack%20table-1867C0?style=for-the-badge&logo=react%20table&logoColor=white)
@@ -39,13 +37,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-lin
 ### 🛠️ Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=blue)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=green)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%235C2D91.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23DD0031.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📊 Stats
