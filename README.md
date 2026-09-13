@@ -1,6 +1,10 @@
 # 👋 Hi, there! 
 
-My name is Larry Ling, and I am a junior studying Computer Science at Northwestern University. I have a strong foundation in Javascript/Typescript and Python programming through my coursework and projects. I am a quick learner with a strong work ethic and a passion for full stack development, and I am very excited to apply and expand my skills and knowledge at every opportunity!
+## ⚡ About Me
+
+- 📚 I'm a senior at Northwestern University pursuing a B.S. in Computer Science.
+- 🧑‍💻 I'm passionate about full-stack and game development.
+- ✨ My hobbies include playing Mahjong, video games, soccer and violin! 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-ling-student/)
 
@@ -9,58 +13,35 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-lin
 
 ## 🖥️ Tech Stack
 
-### 🌐 Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📚 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-5190cf?style=for-the-badge&logo=zustand&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Tanstack Table](https://img.shields.io/badge/tanstack%20table-1867C0?style=for-the-badge&logo=react%20table&logoColor=white)
-![Tanstack Router](https://img.shields.io/badge/Tanstack%20Router-6DB33F?style=for-the-badge&logo=react%20table&logoColor=white)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🛠️ Tools
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=blue)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=green&labelColor=green)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%235C2D91.svg?style=for-the-badge&logo=render&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![Typst](https://img.shields.io/badge/TYPST-239DAD.svg?&style=flat&logo=typst&logoColor=white)
+![React](https://img.shields.io/badge/REACT-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000.svg?&style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![ShadCN](https://img.shields.io/badge/SHADCN-000000.svg?&style=flat&logo=shadcnui&logoColor=white)
+![Node.js](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-000000.svg?&style=flat&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)
+![Neovim](https://img.shields.io/badge/NEOVIM-57A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37.svg?&style=flat&logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/SUPABASE-3ECF8E.svg?&style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/VERCEL-000000.svg?&style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/RENDER-46E3B7.svg?&style=flat&logo=render&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23DD0031.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 Stats
+## 🌱 Currently Learning
 
-![](https://github-readme-stats.vercel.app/api?username=LarryLing&show_icons=true&cache_seconds=86400&theme=ambient_gradient&hide_border=true)
-
-<!--
-**LarryLing/LarryLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Unity](https://img.shields.io/badge/UNITY-100000.svg?&style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-000000.svg?&style=flat&logo=rust&logoColor=white)
+![Debian](https://img.shields.io/badge/DEBIAN-D70A53.svg?&style=flat&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
