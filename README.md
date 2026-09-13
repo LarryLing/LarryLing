@@ -41,7 +41,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-lin
 
 ![Unity](https://img.shields.io/badge/UNITY-100000.svg?&style=flat&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?&style=flat&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/RUST-DEA584.svg?&style=flat&logo=rust&logoColor=000000)
+![Rust](https://img.shields.io/badge/RUST-B7410E.svg?&style=flat&logo=rust&logoColor=white)
 ![Debian](https://img.shields.io/badge/DEBIAN-D70A53.svg?&style=flat&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
