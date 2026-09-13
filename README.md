@@ -44,10 +44,9 @@
 ## Connect With Me
 
 <p>
-  <strong><a href="#">Website (TODO)</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/larry-ling-student/">LinkedIn</a></strong> |
-  <strong><a href="https://charmantle.itch.io">Itch.io</a></strong> |
-  <strong><a href="https://www.instagram.com/larryling.04/">Instagram</a></strong>
+  <a href="#">Website (TODO)</a> |
+  <a href="https://www.linkedin.com/in/larry-ling-student/">LinkedIn</a> |
+  <a href="https://charmantle.itch.io">Itch.io</a> |
+  <a href="https://www.instagram.com/larryling.04/">Instagram</a> |
+  <a href="https://github.com/LarryLing/LarryLing/blob/main/Larry%20Ling%20-%20Resume.pdf">Resume</a>
 </p>
-
-> If you are a recruiter, you can find my resume [here](https://github.com/LarryLing/LarryLing/blob/main/Larry%20Ling%20-%20Resume.pdf)
