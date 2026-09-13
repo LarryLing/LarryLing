@@ -6,11 +6,6 @@
 - 🧑‍💻 I'm passionate about full-stack and game development.
 - ✨ My hobbies include playing Mahjong, video games, soccer and violin! 
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-ling-student/)
-
-> [!IMPORTANT]  
-> If you are a recruiter, you can find my resume [here](https://github.com/LarryLing/LarryLing/blob/main/Larry%20Ling%20-%20Resume.pdf)
-
 ## 🖥️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -45,3 +40,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/larry-lin
 ![Debian](https://img.shields.io/badge/DEBIAN-D70A53.svg?&style=flat&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
+
+## Connect With Me
+
+<p>
+  <strong><a href="#">Website (TODO)</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/larry-ling-student/">LinkedIn</a></strong> |
+  <strong><a href="https://charmantle.itch.io">Itch.io</a></strong> |
+  <strong><a href="https://www.instagram.com/larryling.04/">Instagram</a></strong>
+</p>
+
+> If you are a recruiter, you can find my resume [here](https://github.com/LarryLing/LarryLing/blob/main/Larry%20Ling%20-%20Resume.pdf)
