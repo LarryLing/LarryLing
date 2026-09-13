@@ -41,7 +41,19 @@
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)
 
-## Connect With Me
+## ✅ Project Showcase
+
+Check out some of my projects!
+
+* [Beats & Treats](https://yu-ca.itch.io/beats-treats)
+    * [Github Repository]()
+* [The Mask Merchange](https://yu-ca.itch.io/the-masked-merchant)
+    * [Github Repository](https://github.com/LarryLing/The-Mask-Merchant)
+* [NU Soccer IDP Scheduler](https://idp-scheduler.larryling.xyz/)
+    * [Github Repository](https://github.com/LarryLing/NU-Soccer-IDP-Scheduler)
+* [NU Soccer CLI Web Scraper](https://github.com/LarryLing/NU-Soccer-Web-Scraper-CLI)
+
+## 🤝 Connect With Me
 
 <p>
   <a href="#">Website (TODO)</a> |
